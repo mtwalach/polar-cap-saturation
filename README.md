@@ -22,11 +22,11 @@ If you wish to run the MATLAB and Python Code,
 The Data files used by the code are stored in this [zenodo repository](https://doi.org/10.5281/zenodo.17546719), and can be downloaded from there. 
 
 For running [Code 1: Monte Carlo Simulation of the Solar Wind Error Model](Code1_Monte_Carlo_Simulation_of_Solar_Wind_Uncertainty.html)
-1. Download **Data.zip** from [Zenodo-record](https://doi.org/10.5281/zenodo.17546719) and unzip into this gitrepo on your local machine, and point MATLAB Code 1 variable `DataDir` to a corresponding folder in the gitrepo: **Data**. Example `DataDir = 'C:\Users\username\Documents\GitHub\polar-cap-saturation\Data\';`
+1. Download **Data.zip** from [Zenodo-record](https://doi.org/10.5281/zenodo.17546718) and unzip into this gitrepo on your local machine, and point MATLAB Code 1 variable `DataDir` to a corresponding folder in the gitrepo: **Data**. Example `DataDir = 'C:\Users\username\Documents\GitHub\polar-cap-saturation\Data\';`
 
 For running [Code 3: Calculating the magnitude uncertainty](Code3_Calculating_magnitude_uncertainty.html)
 
-2. Download *Datasets.zip* from [Zenodo-record](https://doi.org/10.5281/zenodo.17546719) and unzip into your local machine within the local copy of this git-repo. The python notebook `Code3_Calculating_magnitude_uncertainty.ipynb` uses this folder for its input data. So the code should be able to access this folder as `./Datasets/`. So ensure the data files are inside the your gitrepo like follows: `~\polar-cap-saturation\Datasets\`. 
+2. Download *Datasets.zip* from [Zenodo-record](https://doi.org/10.5281/zenodo.17546718) and unzip into your local machine within the local copy of this git-repo. The python notebook `Code3_Calculating_magnitude_uncertainty.ipynb` uses this folder for its input data. So the code should be able to access this folder as `./Datasets/`. So ensure the data files are inside the your gitrepo like follows: `~\polar-cap-saturation\Datasets\`. 
 
 [Code 2](Code2_Analytical_derivation_of_time_uncertainty.html) and [Code 4](Code_4_Demonstrating_regression_bias.html) do not require any data files to run. 
 
