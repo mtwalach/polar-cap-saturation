@@ -1,4 +1,4 @@
-# Regression to the Mean of Extreme Geomagnetic Storms
+# Demonstrating Regression to the Mean of Extreme Geomagnetic Storms
 
 This repository contains code that is associated with the paper titled "Regression to the Mean of Extreme Geomagnetic Storms". The pre-print of the paper is uploaded in [arXiv](https://arxiv.org/abs/2201.02137). 
 
